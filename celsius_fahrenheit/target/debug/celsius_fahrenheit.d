@@ -1,0 +1,1 @@
+/home/emery/Projects/Rust-projects/Rust_Programming_Language-Exercises/celsius_fahrenheit/target/debug/celsius_fahrenheit: /home/emery/Projects/Rust-projects/Rust_Programming_Language-Exercises/celsius_fahrenheit/src/main.rs
